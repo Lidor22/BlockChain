@@ -1,7 +1,7 @@
 # BlockChain -Introduction :
 As a part of our Embedded Linux course , we created our own version of the BlockChain.
 Our system starts from a general genesis block and uses 4 miners in order to mine more blocks to the blocks list.
-The project was developed Visual Code in C programming language on Ubunutu 18.04 version.
+The project was developed in Visual Code using C programming language on Ubunutu 18.04 version.
 
 During this Project we learned about C and Linux elements such as :
 
