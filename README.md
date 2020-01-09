@@ -3,7 +3,7 @@ As a part of our Embedded Linux course , we created our own version of the Block
 Our system starts from a general genesis block and uses 4 miners in order to mine more blocks to the blocks list.
 The project was developed in Visual Code using C programming language on Ubunutu 18.04 version.
 
-During this Project we learned about C and Linux elements such as :
+During this Project we learned elements such as :
 
 * Developing project in Linux environment.
 * Working with multi threading(Locks,Condition Variables).
